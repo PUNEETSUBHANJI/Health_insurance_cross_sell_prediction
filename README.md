@@ -54,7 +54,7 @@
 
 <h2> :book: Abstract:</h2>
 
-* The objective was to anticipate Customers who are interested in purchasing vehcle insurance.
+* The objective was to anticipate Customers who are interested in purchasing or buying the vehcle insurance.
 
 * Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
 
